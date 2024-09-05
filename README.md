@@ -62,9 +62,9 @@ To set up the project environment, follow these steps:
     cd energy-usage-prediction` 
     
 2.  **Install the required packages:**
-3. 
+3. '''
     `pip install -r requirements.txt` 
-    
+    '''
 4.  **Download any additional data or models if necessary.**
     
 
@@ -73,9 +73,9 @@ To set up the project environment, follow these steps:
 To run the predictive models and evaluate their performance:
 
 1.  **Run the script for model training and evaluation:**
-2.    
+2.    '''
     `python train_and_evaluate_models.py` 
-    
+    '''
 3.  **Review the results and performance metrics in the output files.**
     
 
