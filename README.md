@@ -70,7 +70,7 @@ To run the predictive models and evaluate their performance:
 
 1.  **Run the script for model training and evaluation:**
 
-2.    `python module.py` 
+2.    `python Module.ipynb` 
     
 3.  **Review the results and performance metrics in the output files.**
     
