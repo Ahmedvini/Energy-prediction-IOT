@@ -57,12 +57,12 @@ We implement and compare the following models:
 To set up the project environment, follow these steps:
 
 1.  **Clone the repository:**
-    
-    `git clone https://github.com/your-username/energy-usage-prediction.git
-    cd energy-usage-prediction` 
-    
+    '''pyhton
+    `git clone https://github.com/ahmedvini/Energy-prediction-IOT.git
+    cd Energy-prediction-IOT` 
+    '''
 2.  **Install the required packages:**
-3. '''
+3. '''python
     `pip install -r requirements.txt` 
     '''
 4.  **Download any additional data or models if necessary.**
